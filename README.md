@@ -35,10 +35,21 @@ In the case of armor, these textures will NOT affect how they look when worn. It
 - Items are shown to not be perfect in how they render, this is *likely* due to the dimensions of each image; theoretically![Uploading image.png…]()
  fixable, I'll check when I have a chance to.
 
+
+# Screenshots:
+## Armor:
+![Armor](https://github.com/Splatman86/Pokemon-Items-v1.0/assets/120541361/00c2659d-49ba-45f8-9448-f8221c6d3214)
+
+## Items:
+![Items](https://github.com/Splatman86/Pokemon-Items-v1.0/assets/120541361/f57654b3-de95-4b0f-bc86-d9a314e5f6df)
+
+## Effects:
+![Effects](https://github.com/Splatman86/Pokemon-Items-v1.0/assets/120541361/fb031572-5c08-490c-8e48-ff9207628617)
+
+
 # Sources / Credits:
 None of this would have been done without Bulbapedia and the Minecraft wiki
 Bulbapedia: https://bulbapedia.bulbagarden.net/wiki/Main_Page
 Minecraft Wiki: https://minecraft.wiki
 
-## Specific Articles:
-  ### Bulbapedia Items:
+## I hope you enjoy using this texture pack. Might maintain it overtime, I'm not too sure. I made this in like an hour because I got bored one night.
